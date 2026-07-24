@@ -2,7 +2,7 @@
 slug: challenge-1
 id: risbdfsryvhx
 type: challenge
-title: Challenge 1
+title: Challenge 10
 teaser: A short description of the challenge.
 notes:
 - type: text
